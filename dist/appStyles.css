@@ -1,0 +1,24 @@
+.backgroud1 {
+  background-color: teal;
+  color: red;
+  font-size: 10em; }
+
+body {
+  background: orange; }
+
+img {
+  margin-top: 20px;
+  display: block;
+  width: 200px;
+  border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  left: auto;
+  right: auto; }
+
+.reactEjercicio {
+  background: pink;
+  color: blue;
+  font-size: 2em; }
+
