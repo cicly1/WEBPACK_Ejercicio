@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\cicly\\Desktop\\master lemoncode\\repositorio\\webpack_exercise",
+			"name": "webpack_exercise"
+		},
+		{
+			"path": "webpack_exercise-2",
+			"name": "webpack_exercise-2"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
