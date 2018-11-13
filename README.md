@@ -8,6 +8,7 @@ Implementar una aplicación simple que:
     src/index.ts y src/index.html para mostrar los logos, páginas
   
   -Tenga el bundling montado con webpack.
+  
       - Configuracion en package.json y webpack.dev.js y webpack.common.js
    
   -Muestre unlogo (si queréis el de lemoncode).
